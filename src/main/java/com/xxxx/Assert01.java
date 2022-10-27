@@ -6,5 +6,10 @@ public class Assert01 {
         System.out.println("Assert01.main");
         System.out.println("Assert01.main");
         System.out.println("Assert01.main");
+        System.out.println("Assert02.main");
+        System.out.println("Assert02.main");
+        System.out.println("Assert02.main");
+        System.out.println("Assert02.main");
+        System.out.println("Assert02.main");
     }
 }
